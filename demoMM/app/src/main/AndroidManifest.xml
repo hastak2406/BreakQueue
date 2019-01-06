@@ -29,7 +29,8 @@
         <activity
             android:name=".SignUpActivity"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".helloworld"></activity>
+        <activity android:name=".helloworld" />
+        <activity android:name=".thaiGayu"></activity>
     </application>
 
 </manifest>
